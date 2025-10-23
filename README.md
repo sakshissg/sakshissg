@@ -12,13 +12,18 @@ Code is my tool
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sakshissg&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
+<h3>✍️ Random Dev Quote</h3>
+<img align="left" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=gruvbox" />
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sakshissg&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<h3>🔝 Top Contributed Repo</h3>
+<img align="right" src="https://github-contributor-stats.vercel.app/api?username=sakshissg&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 
----
-[![](https://visitcount.itsvg.in/api?id=sakshissg&icon=0&color=0)](https://visitcount.itsvg.in)
+<br clear="both" />
+<hr>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=sakshissg&icon=0&color=0" />
+  </a>
+</p>
+
