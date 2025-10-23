@@ -12,13 +12,19 @@ Code is my tool
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sakshissg&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
-<h3>✍️ Random Dev Quote</h3>
-<img align="left" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=gruvbox" />
+<table>
+  <tr>
+    <td>
+      <h3>✍️ Random Dev Quote</h3>
+      <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=gruvbox" />
+    </td>
+    <td>
+      <h3>🔝 Top Contributed Repo</h3>
+      <img src="https://github-contributor-stats.vercel.app/api?username=sakshissg&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+    </td>
+  </tr>
+</table>
 
-<h3>🔝 Top Contributed Repo</h3>
-<img align="right" src="https://github-contributor-stats.vercel.app/api?username=sakshissg&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-
-<br clear="both" />
 <hr>
 
 <p align="center">
@@ -26,4 +32,5 @@ Code is my tool
     <img src="https://visitcount.itsvg.in/api?id=sakshissg&icon=0&color=0" />
   </a>
 </p>
+
 
