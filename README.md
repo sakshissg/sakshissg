@@ -22,17 +22,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sakshissg&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
-<table>
-  <tr>
-    <td>
-      <h3>✍️ Random Dev Quote</h3>
-      <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=gruvbox" />
-    </td>
-    <td>
-      <h3>🔝 Top Contributed Repo</h3>
-      <img src="https://github-contributor-stats.vercel.app/api?username=sakshissg&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-    </td>
-  </tr>
-</table>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sakshissg&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 
