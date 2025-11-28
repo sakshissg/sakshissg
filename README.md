@@ -1,4 +1,4 @@
-🕵️‍♀️ **Problem-spotter** · 🧠 **Problem-solver** · 💻 **Code is my tool**
+**Problem-spotter** · **Problem-solver** · **Code is my tool**
 
 
 # 💻 Tech Stack:
